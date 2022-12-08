@@ -1,2 +1,3 @@
-# estefaniacarrer-Projeto_ElasTech_Atividades_Praticas
-estefaniacarrer/Projeto_ElasTech_Atividades_Praticas
+# Projeto_ElasTech_Atividades_Praticas
+
+Atividades práticas realizadas durante o projeto ElasTech/by Gama Academy_PagBank
